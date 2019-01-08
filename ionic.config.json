@@ -1,5 +1,7 @@
 {
   "name": "PageTransitionV42",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
